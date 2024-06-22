@@ -41,3 +41,13 @@ Enjoy!
 You can contact me through my [portfolio](https://darioalbor.dev.ar).
 
 You can also contribute to the project by adding new ideas or lines of code. All help is welcome!
+
+## 📸 Images
+
+| ![Login](./imagenesgit/login.png) | ![Register](./imagenesgit/register.png) |
+|:---------------------------------:|:---------------------------------------:|
+| Login                             | Register                                |
+
+| ![Profile](./imagenesgit/icons.png) | ![Chat](./imagenesgit/chat.png)        |
+|:-----------------------------------:|:--------------------------------------:|
+| Profile                            | Chat                                   |
