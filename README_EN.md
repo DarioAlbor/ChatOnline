@@ -1,6 +1,6 @@
 # 💬 Chat Online
 
-[Spanish](README.md) ![AR](https://flagicons.lipis.dev/flags/4x3/ar.svg) / [English](README_en.md) ![US](https://flagicons.lipis.dev/flags/4x3/us.svg)
+[Spanish](README.md) <img src="https://flagicons.lipis.dev/flags/4x3/ar.svg" width="20"/> / [English](README_en.md) <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="20">
 
 ## 📖 About the project
 

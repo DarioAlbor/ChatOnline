@@ -1,6 +1,6 @@
 # 💬 Chat Online
 
-[Español](README.md) ![AR](https://flagicons.lipis.dev/flags/4x3/ar.svg) / [Inglés](README_en.md) ![US](https://flagicons.lipis.dev/flags/4x3/us.svg)
+[Español](README.md) <img src="https://flagicons.lipis.dev/flags/4x3/ar.svg" width="20"/> / [Inglés](README_en.md) <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="20"/>
 
 ## 📖 Sobre el proyecto
 
@@ -41,3 +41,13 @@ Este proyecto es un **Chat Online** donde puedes registrarte, iniciar sesión e 
 Puedes contactarme mediante mi [portafolio](https://darioalbor.dev.ar).
 
 También puedes contribuir al proyecto sumando nuevas ideas o líneas de código. ¡Toda ayuda es bienvenida!
+
+## 📸 Imágenes
+
+| ![Inicio de sesión](./imagenesgit/login.png) | ![Registro](./imagenesgit/register.png) |
+|:--------------------------------------------:|:---------------------------------------:|
+| Inicio de sesión                             | Registro                               |
+
+| ![Imagen de perfil](./imagenesgit/icons.png) | ![Chat](./imagenesgit/chat.png)        |
+|:--------------------------------------------:|:--------------------------------------:|
+| Imagen de perfil                             | Chat                                   |
